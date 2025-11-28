@@ -5,7 +5,7 @@ Mastering Python for Professional Programmers
 [Google Slides](https://docs.google.com/presentation/d/1VgZEZZNt3h_ryVSUtsT-ov5YQWA65dL7m8SJXR0k3Jk/edit?usp=sharing)
 
 # Setup your environment
-1) [Install Uv](https://docs.astral.sh/uv/getting-started/installation/)
+1) [Install Uv](https://docs.astral.sh/uv/getting-started/installation/)<br>
 1a) If in windows: ```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
 2) load your virtual enviroment: ```uv venv```
 3) Load your dependancies: ```uv sync```
