@@ -5,13 +5,15 @@ Mastering Python for Professional Programmers
 [Google Slides](https://docs.google.com/presentation/d/1VgZEZZNt3h_ryVSUtsT-ov5YQWA65dL7m8SJXR0k3Jk/edit?usp=sharing)
 
 # Setup your environment
-1) Make sure you have IDE. I suggest [Visual studio Code](https://code.visualstudio.com/)
-2) [Install Uv](https://docs.astral.sh/uv/getting-started/installation/)<br>
-2a) If in windows: ```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
-3) load your virtual enviroment: ```uv venv```
-4) Load your dependancies: ```uv sync```
-5) Follow the last line outputed (might be: ```.venv\Scripts\activate```)
-6) Run your script (if it's "main.py") by running: ```uv run main.py```
+1) Sign up for Github.com
+2) Install "Git" from [Git Download](https://git-scm.com/install/)
+3) Make sure you have IDE. I suggest [Visual studio Code](https://code.visualstudio.com/)
+4) [Install Uv](https://docs.astral.sh/uv/getting-started/installation/)<br>
+4a) If in windows: ```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
+5) load your virtual enviroment: ```uv venv```
+6) Load your dependancies: ```uv sync```
+7) Follow the last line outputed (might be: ```.venv\Scripts\activate```)
+8) Run your script (if it's "main.py") by running: ```uv run main.py```
 
 # Steps we'll do from now on
 1) Fork the repo to your own github
