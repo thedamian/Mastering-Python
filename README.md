@@ -10,10 +10,13 @@ Mastering Python for Professional Programmers
 3) Make sure you have IDE. I suggest [Visual studio Code](https://code.visualstudio.com/)
 4) [Install Uv](https://docs.astral.sh/uv/getting-started/installation/)<br>
 4a) If in windows: ```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
-5) load your virtual enviroment: ```uv venv```
-6) Load your dependancies: ```uv sync```
-7) Follow the last line outputed (might be: ```.venv\Scripts\activate```)
-8) Run your script (if it's "main.py") by running: ```uv run main.py```
+5) Install [Github CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli) 
+
+# For all repos do the following:
+1) load your virtual enviroment: ```uv venv```
+2) Load your dependancies: ```uv sync```
+3) Follow the last line outputed (might be: ```.venv\Scripts\activate```)
+4) Run your script (if it's "main.py") by running: ```uv run main.py```
 
 # Steps we'll do from now on
 1) Fork the repo to your own github
